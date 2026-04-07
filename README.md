@@ -6,11 +6,11 @@ Este repositorio contiene una colección de documentos en formato presentación 
 
 ## 📑 Índice
 
-1. [📄 Presentación 1](#-presentación-1)  
-2. [📄 Presentación 2](#-presentación-2)  
-3. [📄 Presentación 3](#-presentación-3)  
-4. [📄 Presentación 4](#-presentación-4)  
-5. [📄 Presentación 5](#-presentación-5)  
+1. [📄 Historia de la Inteligencia Artificial](#-presentación-1)  
+2. [📄 Fundamentos de la Inteligencia Artificial](#-presentación-2)  
+3. [📄 Diferencias entre Inteligencias Artificiales](#-presentación-3)  
+4. [📄 Áreas de Aplicación de la Inteligencia Artificial](#-presentación-4)  
+5. [📄 Ética, Sesgos y Responsabilidad en Sistemas de IA](#-presentación-5)  
 
 ---
 
