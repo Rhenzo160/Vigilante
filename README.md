@@ -39,7 +39,8 @@ Además, se incluyen materiales teóricos en formato presentación que respaldan
 
 ---
 
-## 🧩 Estructura del Proyecto
+## 🧩 Accede al repositorio a travez del siguiente LINK de acceso: https://neon-fox-2e9530.netlify.app/
+
 
 ## 📑 Índice
 
